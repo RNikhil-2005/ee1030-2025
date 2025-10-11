@@ -1,0 +1,9 @@
+\frametitle{Python Code}
+   \begin{lstlisting}
+ax.set_xlabel("X")
+ax.set_ylabel("Y")
+ax.set_zlabel("Z")
+ax.set_title("Plane and its Unit Normal Vector")
+plt.savefig("/home/r-nikhil/ee1030-2025/ai25btech11025/matgeo/2.2.18/figsplotc.png")
+plt.show()
+\end{lstlisting}
